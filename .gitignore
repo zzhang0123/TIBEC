@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.eggs/
+.ipynb_checkpoints/
+*.out
+CLAUDE.md
+notebooks/*out
+notebooks/*ffs
+data/
